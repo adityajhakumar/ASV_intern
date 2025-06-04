@@ -64,7 +64,7 @@ It uses a **Kalman filter** — a special algorithm that merges noisy sensor dat
 
 ---
 
-# Key Concepts You Should Know
+# Key Concepts 
 
 ### 1. **GPS Coordinates vs. Local Coordinates**
 
